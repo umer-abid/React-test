@@ -1,0 +1,8 @@
+.crousal {
+  margin-left: 10rem;
+  height: 30vh;
+  width: 52.2vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background: url("/src/assets/crousal/crousal.jpg");
+}

@@ -1,0 +1,12 @@
+.navbar {
+  background-color: rgb(7, 31, 78) !important;
+  height: 2.4rem !important;
+}
+.navbar-nav li a {
+  color: #fff !important;
+  border-right: 2px solid #fff;
+  /* font-weight: bold; */
+}
+.nav-item .nav-link:hover {
+  color: orangered !important;
+}
